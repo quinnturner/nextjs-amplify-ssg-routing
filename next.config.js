@@ -5,6 +5,7 @@ const nextConfig = {
   future: {
     webpack5: false,
   },
+  trailingSlash: true,
 };
 
 module.exports = nextConfig;
