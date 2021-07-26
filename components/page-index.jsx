@@ -21,6 +21,7 @@ export default function PageIndex() {
     `/${wi}/static/c`,
     `/${wi}/static/c/d`,
     `/${wi}/static/c/static`,
+    `/pr-preview`,
   ];
   return (
     <div>
